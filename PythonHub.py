@@ -284,7 +284,7 @@ def play():
     print("\n===============[SCOREBOARD]==============\n")
     if score > 0:
 
-     percentage = (score / 3) * 100
+     percentage = (score / 20) * 100
      print(f"You Got {score} Questions Correct!")
      print(f"You Got {percentage}%")
 
